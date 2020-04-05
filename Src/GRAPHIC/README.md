@@ -21,13 +21,13 @@ Avec :
 * Pression en HectoPascal	(hPa)
 
 * Ces valeurs sont situées dans le repertoire :
-** WeatherClick/Src/GRAPHIC/WeatherClick/bin
+  * WeatherClick/Src/GRAPHIC/WeatherClick/bin
 * Dans le fichier
-** Values.txt
+  * Values.txt
 * Ces valeurs sont des doubles
-** Vous pouvez donc entrer des nombres à virgule
-** Cela sera tronqué au deuxième chiffre après la virgule pour l'affichage
-** Attention, la virgule doit être représentée par un "."
+  * Vous pouvez donc entrer des nombres à virgule
+  * Cela sera tronqué au deuxième chiffre après la virgule pour l'affichage
+  * Attention, la virgule doit être représentée par un "."
 
 ## Préparation
 
@@ -39,10 +39,10 @@ Il faut donc faire :
 * Click droit sur le raccourci
 * Propriétés
 * Modifier le champ "Cible"
-** Sélectionnez l'ensemble du chemin et tappez "javaw Affiche_Data"
+  * Sélectionnez l'ensemble du chemin et tappez "javaw Affiche_Data"
 * Modifier le champ "Démarrer dans"
-** Mettez le chemin complet du répertoire
-*** WeatherClick/Src/GRAPHIC/WeatherClick/bin
+  * Mettez le chemin complet du répertoire
+    * WeatherClick/Src/GRAPHIC/WeatherClick/bin
 
 ### Raccourci txt
 Un raccourci vers le fichier de valeurs est présent au chemin
@@ -54,11 +54,11 @@ Il faut donc faire :
 * Click droit sur le raccourci
 * Propriétés
 * Modifier le champ "Cible"
-** Mettez le chemin complet du fichier
-*** WeatherClick/Src/GRAPHIC/WeatherClick/bin/Values.txt
+  * Mettez le chemin complet du fichier
+    * WeatherClick/Src/GRAPHIC/WeatherClick/bin/Values.txt
 * Modifier le champ "Démarrer dans"
-** Mettez le chemin complet du répertoire
-*** WeatherClick/Src/GRAPHIC/WeatherClick/bin
+  * Mettez le chemin complet du répertoire
+    * WeatherClick/Src/GRAPHIC/WeatherClick/bin
 
 ## Lancement
 
