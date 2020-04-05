@@ -34,6 +34,7 @@ Avec :
 ### Raccourci launcher
 Un raccourci java est présent au chemin
 * WeatherClick/Src/GRAPHIC/WeatherClick
+
 Il permet de lancer l'application java. Celui ci est susceptible de ne pas pointer au bon endroit en fonction de votre dépot git local.
 Il faut donc faire :
 * Click droit sur le raccourci
@@ -47,8 +48,10 @@ Il faut donc faire :
 ### Raccourci txt
 Un raccourci vers le fichier de valeurs est présent au chemin
 * WeatherClick/Src/GRAPHIC/WeatherClick
+
 Il pointe vers
 * WeatherClick/Src/GRAPHIC/WeatherClick/bin/Values.txt
+
 Il permet d'accéder directement au fichier. Celui ci est susceptible de ne pas pointer au bon endroit en fonction de votre dépot git local.
 Il faut donc faire :
 * Click droit sur le raccourci
