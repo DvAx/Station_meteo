@@ -1,7 +1,11 @@
 # WeatherClick Graphic
 
-Auteur Jean-Gabriel MASSICOT <jgmassicot@gmail.com>
-Github massicotjgab
+Auteurs :
+* Jean-Gabriel MASSICOT <jgmassicot@gmail.com>
+* Axel DEVAUX <devaux25@gmail.com>
+Github :
+* massicotjgab
+* DvAx
 edit : 05/04/2020
 
 ## Résumé
